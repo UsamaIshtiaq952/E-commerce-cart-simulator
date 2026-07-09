@@ -10,7 +10,7 @@ const products = [
         category:"electronics",
         price:1299,
         stock:18,
-        image:"images/products/iphone.jpg",
+        image:"iphone.jpg",
         description:"Apple flagship smartphone with A18 chip."
     },
 
@@ -20,7 +20,7 @@ const products = [
         category:"electronics",
         price:1499,
         stock:15,
-        image:"images/products/laptop.jpg",
+        image:"laptop.jpg",
         description:"High-performance laptop for gaming and work."
     },
 
@@ -30,7 +30,7 @@ const products = [
         category:"electronics",
         price:199,
         stock:19,
-        image:"images/products/headphones.jpg",
+        image:"headphones.jpg",
         description:"Noise cancelling premium headphones."
     },
 
@@ -40,7 +40,7 @@ const products = [
         category:"electronics",
         price:299,
         stock:26,
-        image:"images/products/watch.jpg",
+        image:"watch.jpg",
         description:"Track health, fitness and notifications."
     },
 
@@ -50,7 +50,7 @@ const products = [
         category:"electronics",
         price:899,
         stock:4,
-        image:"images/products/camera.jpg",
+        image:"camera.jpg",
         description:"Capture professional quality photos."
     },
 
@@ -60,7 +60,7 @@ const products = [
         category:"clothing",
         price:35,
         stock:15,
-        image:"images/products/tshirt.jpg",
+        image:"tshirt.jpg",
         description:"Comfortable premium cotton t-shirt."
     },
 
@@ -70,7 +70,7 @@ const products = [
         category:"electronics",
         price:1299,
         stock:18,
-        image:"images/products/iphone.jpg",
+        image:"iphone.jpg",
         description:"Apple flagship smartphone with A18 chip."
     },
     {
@@ -79,7 +79,7 @@ const products = [
         category:"clothing",
         price:70,
         stock:7,
-        image:"images/products/hoodie.jpg",
+        image:"hoodie.jpg",
         description:"Warm fleece hoodie for winter."
     },
 
@@ -89,7 +89,7 @@ const products = [
         category:"clothing",
         price:120,
         stock:12,
-        image:"images/products/shoes.jpg",
+        image:"shoes.jpg",
         description:"Lightweight shoes for everyday running."
     },
 
@@ -99,7 +99,7 @@ const products = [
         category:"clothing",
         price:95,
         stock:5,
-        image:"images/products/jacket.jpg",
+        image:"jacket.jpg",
         description:"Stylish denim jacket for casual wear."
     },
 
@@ -109,7 +109,7 @@ const products = [
         category:"books",
         price:40,
         stock:20,
-        image:"images/products/javascript-book.jpg",
+        image:"javascript-book.jpg",
         description:"Complete guide to modern JavaScript."
     },
        
@@ -119,7 +119,7 @@ const products = [
         category:"electronics",
         price:1299,
         stock:18,
-        image:"images/products/iphone.jpg",
+        image:"iphone.jpg",
         description:"Apple flagship smartphone with A18 chip."
     },
     {
@@ -128,7 +128,7 @@ const products = [
         category:"books",
         price:32,
         stock:14,
-        image:"images/products/css-book.jpg",
+        image:"css-book.jpg",
         description:"Master CSS from beginner to advanced."
     },
     
@@ -138,7 +138,7 @@ const products = [
         category:"electronics",
         price:1299,
         stock:18,
-        image:"images/products/iphone.jpg",
+        image:"/iphone.jpg",
         description:"Apple flagship smartphone with A18 chip."
     },
     {
@@ -147,7 +147,7 @@ const products = [
         category:"books",
         price:45,
         stock:9,
-        image:"images/products/react-book.jpg",
+        image:"react-book.jpg",
         description:"Learn React with practical projects."
     },
        
@@ -157,7 +157,7 @@ const products = [
         category:"electronics",
         price:1299,
         stock:18,
-        image:"images/products/iphone.jpg",
+        image:"iphone.jpg",
         description:"Apple flagship smartphone with A18 chip."
     },
       
