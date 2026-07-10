@@ -3029,16 +3029,12 @@ body.modal-open{
 
 
 .product-header{
-  width: 200px;
-     top:0;
-
-    left:0;
-    bottom: 0;
-
+ 
+    
     align-items:center;
 
     
-    margin-left: 320px;
+    
     position: sticky;
    z-index: 1000;
    
@@ -3047,7 +3043,8 @@ body.modal-open{
     border-bottom:1px solid var(--border);
 
     z-index:1000;
-    
+
+
 
 }
 
@@ -3070,8 +3067,9 @@ body.modal-open{
 
     transition:.3s;
    
-   font-family: 20px;
-   margin-top: 100px;
+   
+   
+   
    
    
 
